@@ -2,6 +2,7 @@
 
 # Documents Of Interest
 [![DOI](https://zenodo.org/badge/DOI/10.11591/ijict.v14i1.pp164-173.svg)](https://zenodo.org/records/15067408)
+
 https://www.pnrjournal.com/index.php/home/article/view/5182
 https://www.mdpi.com/2079-9292/12/10/2285
 
@@ -42,7 +43,6 @@ This project performs analysis using machine learning models. The pipeline inclu
 │   ├── pipeline.log               # Log file capturing pipeline execution
 │── models/                        # Tmporary store for Models
 │   ├── model.pickle              # Trained model in python serialized object format
-object format
 │── notebooks/                     # Jupyter notebooks for analysis
 │── src/                           # Source code
 │   ├── config.py                  # Configuration settings
