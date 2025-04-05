@@ -1,8 +1,11 @@
 # Lib Requirements file (2BE completed)
 requests
+numpy
 pandas
 scikit-learn
+xgboost
 matplotlib
 seaborn
-numpy
+
+streamlit
 sqlite3
