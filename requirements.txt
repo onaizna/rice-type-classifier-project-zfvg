@@ -1,0 +1,8 @@
+# Lib Requirements file (2BE completed)
+requests
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy
+sqlite3
